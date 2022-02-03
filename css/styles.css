@@ -1,1 +1,16 @@
 /* developer styles go here */
+section{
+    /* background-image: url(../img/browser-website.svg);  */
+}
+
+.flex-container{
+    display: flex;
+}
+
+svg{
+    fill: greenyellow;
+}
+
+svg:hover{
+    fill: forestgreen;
+}
